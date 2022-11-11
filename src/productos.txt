@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "MACETA 01",
+    "precio": 30999,
+    "thumbnail": "https://raw.githubusercontent.com/KernAgustin/rococoproyecto/master/img/MACETA_TIPO_02.webp"
+  },
+  {
+    "id": 2,
+    "title": "MACETA 02",
+    "precio": 22999,
+    "thumbnail": "https://raw.githubusercontent.com/KernAgustin/rococoproyecto/master/img/MACETA_TIPO_01.webp"
+  },
+  {
+    "id": 3,
+    "title": "MACETA 03",
+    "precio": 13999,
+    "thumbnail": "https://raw.githubusercontent.com/KernAgustin/rococoproyecto/master/img/MACETA_TIPO_03.webp"
+  }
+]
